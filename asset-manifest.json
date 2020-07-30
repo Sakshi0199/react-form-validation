@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sakshi0199/react-form-validation/static/css/main.46a26288.chunk.css",
+    "main.js": "/Sakshi0199/react-form-validation/static/js/main.21408367.chunk.js",
+    "main.js.map": "/Sakshi0199/react-form-validation/static/js/main.21408367.chunk.js.map",
+    "runtime-main.js": "/Sakshi0199/react-form-validation/static/js/runtime-main.6efac83e.js",
+    "runtime-main.js.map": "/Sakshi0199/react-form-validation/static/js/runtime-main.6efac83e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Sakshi0199/react-form-validation/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a0c71b36.chunk.js": "/Sakshi0199/react-form-validation/static/js/2.a0c71b36.chunk.js",
+    "static/js/2.a0c71b36.chunk.js.map": "/Sakshi0199/react-form-validation/static/js/2.a0c71b36.chunk.js.map",
+    "index.html": "/Sakshi0199/react-form-validation/index.html",
+    "precache-manifest.be906a11fb66cec56daa892a42bd8c65.js": "/Sakshi0199/react-form-validation/precache-manifest.be906a11fb66cec56daa892a42bd8c65.js",
+    "service-worker.js": "/Sakshi0199/react-form-validation/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Sakshi0199/react-form-validation/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.46a26288.chunk.css.map": "/Sakshi0199/react-form-validation/static/css/main.46a26288.chunk.css.map",
+    "static/js/2.a0c71b36.chunk.js.LICENSE.txt": "/Sakshi0199/react-form-validation/static/js/2.a0c71b36.chunk.js.LICENSE.txt",
+    "static/media/CustomForm.css": "/Sakshi0199/react-form-validation/static/media/record.f57568fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6efac83e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a0c71b36.chunk.js",
+    "static/css/main.46a26288.chunk.css",
+    "static/js/main.21408367.chunk.js"
+  ]
+}
